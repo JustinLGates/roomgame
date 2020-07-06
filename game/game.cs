@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Threading;
 namespace game
 {
   class Game
@@ -13,9 +14,13 @@ namespace game
     {
       isRunning = false;
     }
-    public game()
+    public Game()
     {
-      Console.WriteLine("Do you want to play a game.");
+      Console.Clear();
+      var originalColor = Console.ForegroundColor;
+      Console.ForegroundColor = ConsoleColor.Yellow;
+      string msg = "Do you want to play a game....";
+
       start();
       run();
     }

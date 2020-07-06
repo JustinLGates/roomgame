@@ -1,0 +1,13 @@
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.csprojAssemblyReference.cache
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.AssemblyInfoInputs.cache
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.AssemblyInfo.cs
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.csproj.CoreCompileInputs.cache
+C:\codeworkssource\codeworks\csroomgame\bin\Debug\netcoreapp3.1\csroomgame.exe
+C:\codeworkssource\codeworks\csroomgame\bin\Debug\netcoreapp3.1\csroomgame.deps.json
+C:\codeworkssource\codeworks\csroomgame\bin\Debug\netcoreapp3.1\csroomgame.runtimeconfig.json
+C:\codeworkssource\codeworks\csroomgame\bin\Debug\netcoreapp3.1\csroomgame.runtimeconfig.dev.json
+C:\codeworkssource\codeworks\csroomgame\bin\Debug\netcoreapp3.1\csroomgame.dll
+C:\codeworkssource\codeworks\csroomgame\bin\Debug\netcoreapp3.1\csroomgame.pdb
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.dll
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.pdb
+C:\codeworkssource\codeworks\csroomgame\obj\Debug\netcoreapp3.1\csroomgame.genruntimeconfig.cache
