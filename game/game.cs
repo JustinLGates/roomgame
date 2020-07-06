@@ -7,10 +7,7 @@ namespace game
   class Game
   {
 
-    Room startRoom = new Room("The place where the game starts");
-    Room room1 = new Room("The first new room");
-    Room room2 = new Room("The locked room", false);
-    Room currentRoom;
+    Map map = new Map();
     Utils log = new Utils();
     public string input { get; set; }
     bool isRunning { get; set; }
@@ -64,8 +61,8 @@ namespace game
         {
           case "l":
             log.clear();
-            currentRoom = room1;
-            log.typeMsg(currentRoom.Description);
+            log.typeMsg(map.CurrentRoom.Description);
+
             break;
           case "m":
             log.clear();
